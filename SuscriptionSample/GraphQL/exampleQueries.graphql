@@ -1,0 +1,6 @@
+subscription watchOperation {
+  operationFinished {
+    name
+    endDate
+  }
+}
